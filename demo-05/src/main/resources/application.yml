@@ -1,0 +1,11 @@
+school:
+  students:
+    - ??1
+    - ??2
+    - ???
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.237.129:3306?useSSL=false
+    username: root
+    password: 123456

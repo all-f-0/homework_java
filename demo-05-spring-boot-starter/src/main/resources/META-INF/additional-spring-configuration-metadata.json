@@ -1,0 +1,11 @@
+{
+  "groups": [{
+    "name": "student",
+    "sourceType": "com.cxp.demo05.starter.StudentProperties"
+  }],
+  "properties": [{
+    "name": "student.students",
+    "sourceType": "com.cxp.demo05.starter.StudentProperties",
+    "type": "java.util.List<java.lang.String>"
+  }]
+}
